@@ -1,4 +1,1 @@
-# .github
-BrightCoast Org Profile
-
-# Hello GitHub
+# Welcome to BrightCoast's home on GitHub!
